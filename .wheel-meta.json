@@ -1,0 +1,22 @@
+{
+  "wheel_id": 839,
+  "structure": "umbrella",
+  "slug": "poolbuildergoldcoast-155",
+  "project": "concrete-pool-builder-gold-coast-glossary-0f3d604bfe6f5b5931964",
+  "parent_t1_ref": "poolbuildergoldcoast-007",
+  "node_role": "buffer",
+  "money_target": "poolbuildergoldcoast.net.au",
+  "primary_kw": "concrete pool builder gold coast glossary",
+  "intended_url": "https://aumedia.neocities.org/concrete-pool-builder-gold-coast-glossary-0f3d604bfe6f5b5931964/",
+  "tier": "T2",
+  "writeback_nonce": "48392aa76352acfb",
+  "links": [
+    {
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/concrete-pool-builder-gold-coast-007/",
+      "anchor": "this concrete pool builder gold coast resource",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
